@@ -5,3 +5,6 @@ def mohd_function():
 
 def mohammad_function():
     print("This is a Mohammad Function.")
+
+def shaikha_function():
+    print("This is Shaikha's function.")
